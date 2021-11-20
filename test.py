@@ -1,4 +1,4 @@
 import os
 
-file = open("youliang123.txt","w",encoding="utf-8")
+file = open("youliang123.txt","w")
 print("Hello World")
